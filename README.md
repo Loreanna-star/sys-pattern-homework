@@ -36,4 +36,7 @@
 
 
 ### Задание 3
-
+1. ![Таска3](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task3_1.png)
+2. ![Таска3](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task3_2.png)
+3. ![Таска3](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task3_3.png)
+4. ![Таска3](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task3_4.png)
