@@ -24,12 +24,15 @@
 
 ### Задание 1
 1. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task1_1.png)
-2. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/img/jenkins/task1_2.png)
-3. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/img/jenkins/task1_3.png)
-4. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/img/jenkins/task1_4.png)
+2. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task1_2.png)
+3. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task1_3.png)
+4. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task1_4.png)
 
 ### Задание 2
-
+1. ![Таска2](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task2_1.png)
+2. ![Таска2](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task2_2.png)
+3. ![Таска2](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task2_3.png)
+4. ![Таска2](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/img/task2_4.png)
 
 
 ### Задание 3
