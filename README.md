@@ -23,10 +23,10 @@
 ---
 
 ### Задание 1
-1. ![Таска1](https://github.com/Loreanna-star/sys-git-homework/blob/jenkins/task1_1.png)
-2. ![Таска1](https://github.com/Loreanna-star/sys-git-homework/blob/jenkins/task1_2.png)
-3. ![Таска1](https://github.com/Loreanna-star/sys-git-homework/blob/jenkins/task1_3.png)
-4. ![Таска1](https://github.com/Loreanna-star/sys-git-homework/blob/jenkins/task1_4.png)
+1. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/task1_1.png)
+2. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/task1_2.png)
+3. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/task1_3.png)
+4. ![Таска1](https://github.com/Loreanna-star/sys-pattern-homework/blob/jenkins/task1_4.png)
 
 ### Задание 2
 
