@@ -16,7 +16,7 @@ systemctl enable zabbix-server zabbix-agent apache2
 
 ```
 Скриншот-1 к заданию 1:
-![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)
+![Скриншот-1](https://github.com/Loreanna-star/sys-pattern-homework/blob/zabbix_1/img/task1-1.png)
 Скриншот-2 к заданию 1:
 ![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)
 Скриншот-3 к заданию 1:
