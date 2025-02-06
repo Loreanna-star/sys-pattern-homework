@@ -24,4 +24,4 @@
 ### Задание 4
 
 Скриншот-1 к заданию 4:
-![Скриншот-1](https://github.com/Loreanna-Star/sys-pattern-homework/blob/zabbix_2/img/task3-1.png)
+![Скриншот-1](https://github.com/Loreanna-Star/sys-pattern-homework/blob/zabbix_2/img/task4-1.png)
